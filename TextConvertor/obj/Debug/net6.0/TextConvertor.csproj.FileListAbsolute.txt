@@ -1,0 +1,17 @@
+C:\Users\Евгений\Desktop\proekt 2\TextConvertor\TextConvertor\bin\Debug\net6.0\TextConvertor.exe
+C:\Users\Евгений\Desktop\proekt 2\TextConvertor\TextConvertor\bin\Debug\net6.0\TextConvertor.deps.json
+C:\Users\Евгений\Desktop\proekt 2\TextConvertor\TextConvertor\bin\Debug\net6.0\TextConvertor.runtimeconfig.json
+C:\Users\Евгений\Desktop\proekt 2\TextConvertor\TextConvertor\bin\Debug\net6.0\TextConvertor.dll
+C:\Users\Евгений\Desktop\proekt 2\TextConvertor\TextConvertor\bin\Debug\net6.0\TextConvertor.pdb
+C:\Users\Евгений\Desktop\proekt 2\TextConvertor\TextConvertor\obj\Debug\net6.0\TextConvertor.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\proekt 2\TextConvertor\TextConvertor\obj\Debug\net6.0\TextConvertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\proekt 2\TextConvertor\TextConvertor\obj\Debug\net6.0\TextConvertor.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\proekt 2\TextConvertor\TextConvertor\obj\Debug\net6.0\TextConvertor.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\proekt 2\TextConvertor\TextConvertor\obj\Debug\net6.0\TextConvertor.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\proekt 2\TextConvertor\TextConvertor\obj\Debug\net6.0\TextConvertor.dll
+C:\Users\Евгений\Desktop\proekt 2\TextConvertor\TextConvertor\obj\Debug\net6.0\refint\TextConvertor.dll
+C:\Users\Евгений\Desktop\proekt 2\TextConvertor\TextConvertor\obj\Debug\net6.0\TextConvertor.pdb
+C:\Users\Евгений\Desktop\proekt 2\TextConvertor\TextConvertor\obj\Debug\net6.0\TextConvertor.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\proekt 2\TextConvertor\TextConvertor\obj\Debug\net6.0\ref\TextConvertor.dll
+C:\Users\Евгений\Desktop\proekt 2\TextConvertor\TextConvertor\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Евгений\Desktop\proekt 2\TextConvertor\TextConvertor\obj\Debug\net6.0\TextConvertor.csproj.CopyComplete
